@@ -2155,7 +2155,6 @@ input, select, textarea {
 			background: #83d3c9;
 			border-color: #83d3c9;
 			color: #fff !important;
-			margin-top: 5px;
 		}
 
 			input[type="button"].primary:hover,
