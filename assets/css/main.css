@@ -1801,6 +1801,7 @@ input, select, textarea {
 		background: none;
 		border: solid 1px rgba(124, 128, 129, 0.2);
 		border-radius: 0;
+		border-color: #A8B7BD;
 		color: inherit;
 		display: block;
 		padding: 0.75em;
@@ -2154,6 +2155,7 @@ input, select, textarea {
 			background: #83d3c9;
 			border-color: #83d3c9;
 			color: #fff !important;
+			margin-top: 5px;
 		}
 
 			input[type="button"].primary:hover,
