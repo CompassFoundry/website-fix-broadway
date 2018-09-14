@@ -176,6 +176,12 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+/* Nick's Additions */
+
+	.rwd-break {
+		display: block;
+	}
+
 /* Container */
 
 	.container {
