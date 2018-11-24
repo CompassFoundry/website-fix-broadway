@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="861px" height="676px" viewBox="0 0 861 676" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="669.29 595.56 504.7 595.56 253.64 619.83 0.64 595.56 0.64 0.96 252.6 19.16 509.99 0.96 761.79 35.34 761.79 502.52"></polygon>
+        <linearGradient x1="50.0041594%" y1="100%" x2="50.0041594%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.993309%" x2="50%" y2="-0.00334548861%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#000000" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="undraw_map_dros">
+            <polygon id="a073cd38-4eb0-453d-a1d0-70f9c24b1634" fill="url(#linearGradient-1)" points="707.06 648.8 547.3 648.8 275.18 675.24 0.95 648.8 0.95 0.91 274.04 20.74 553.03 0.91 825.95 38.37 818.95 535.91"></polygon>
+            <polygon id="59230751-4dc4-41f9-b924-118a87d1b7cc" fill="#FFFFFF" points="701.86 639.79 545.59 639.79 279.42 665.52 11.19 639.79 11.19 9.41 278.31 28.71 551.19 9.41 818.14 45.86 811.29 529.96"></polygon>
+            <polygon id="5b2d8654-11e0-49b5-a1f9-dad8b3034394" fill="#6C63FF" points="702.74 622.63 538.15 622.63 287.1 646.9 34.09 622.63 34.09 28.03 286.05 46.24 543.44 28.03 795.24 62.42 795.24 529.6"></polygon>
+            <g id="Clipped" transform="translate(98.000000, 35.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="c9ed84a9-8cab-4a44-9ea6-8594f096f2dc"></g>
+                <polygon id="Path" fill="#FFFFFF" mask="url(#mask-3)" points="922.05 766.14 344.09 446.08 490.89 -41.67 440.93 -61.48 369.79 174.89 -197.03 -139 -220 -84.35 352.41 232.63 221.73 666.83 271.69 686.64 326.71 503.82 899.08 820.79"></polygon>
+            </g>
+            <polyline id="Path" fill="#000000" opacity="0.1" points="286.05 646.9 538 622.63 538 28.03 286.05 46.24"></polyline>
+            <polygon id="Path" fill="url(#linearGradient-4)" points="691.08 638.81 693.02 516.08 811.29 520.85"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="701.86 638.81 703.62 525.55 811.29 529.96"></polygon>
+            <path d="M531.91,242.63 C531.91,295.63 432.28,445.63 432.28,445.63 C432.28,445.63 332.65,295.63 332.65,242.63 C332.65,189.63 377.26,146.72 432.28,146.72 C487.3,146.72 531.91,189.66 531.91,242.63 Z" id="Path" fill="url(#linearGradient-5)"></path>
+            <ellipse id="Oval" fill="url(#linearGradient-6)" cx="432.28" cy="235.93" rx="30.12" ry="29"></ellipse>
+            <path d="M516.8,244.44 C516.8,292.44 429.8,428.44 429.8,428.44 C429.8,428.44 342.8,292.44 342.8,244.44 C341.901739,212.782094 358.27791,183.136873 385.554541,167.04292 C412.831172,150.948968 446.698828,150.948968 473.975459,167.04292 C501.25209,183.136873 517.628261,212.782094 516.73,244.44 L516.8,244.44 Z" id="Path" fill="#FF5252"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="429.83" cy="238.37" r="26.29"></circle>
+        </g>
+    </g>
+</svg>
